@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/lorne-tx-core-redis/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-transaction/pom.xml" />
         <option value="$PROJECT_DIR$/tx-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

@@ -45,14 +45,14 @@
     <dependency>
         <groupId>com.github.1991wangliang</groupId>
         <artifactId>springcloud-transaction</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.2</version>
     </dependency>
     
     
     <dependency>
         <groupId>com.github.1991wangliang</groupId>
         <artifactId>dubbo-transaction</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.2</version>
     </dependency>
 
 ```
