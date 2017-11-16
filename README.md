@@ -2,6 +2,11 @@
 
   "LCN并不生产事务，LCN只是本地事务的搬用工"
 
+## 框架官网
+
+[www.txlcn.org](http://www.txlcn.org)
+
+
 
 ## 框架特点
 
@@ -13,6 +18,7 @@
 6. 支持本地事务和分布式事务共存
 7. 事务补偿机制，服务故障或挂机再启动时可恢复事务
 
+* LCN分布式事务框架v4.0 发布了，详情见框架官网 
 
 ## 注意事项
 
@@ -139,6 +145,6 @@ dubbo版本的demo [dubbo-demo](https://github.com/1991wangliang/dubbo-lcn-demo)
 
 springcloud版本的demo [springcloud-demo](https://github.com/1991wangliang/springcloud-lcn-demo)
 
-Demo使用视频讲解地址：[http://www.txlcn.org/video.html](http://www.txlcn.org/video.html)  
+Demo使用视频讲解地址：[http://www.txlcn.org/v3/index.html](http://www.txlcn.org/v3/index.html)  
 
 技术交流群：554855843
