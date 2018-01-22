@@ -1,6 +1,8 @@
 # LCN分布式事务框架v3.0
 
   "LCN并不生产事务，LCN只是本地事务的搬运工"
+  
+  3.0 将不再维护，请使用4.0版本。github地址 : https://github.com/codingapi/tx-lcn 
 
 ## 框架官网
 
